@@ -147,7 +147,7 @@ plt.ylabel('Value')
 plt.legend(title='Region')
 plt.show()
 ```
-# OUPUT
+# OUTPUT
 
 ![image](https://github.com/Jayakrishnan22003251/Ex-08-Data-Visualization-/assets/120232371/c1cdfae1-79fe-4090-a024-8d73d7047274)
 ![image](https://github.com/Jayakrishnan22003251/Ex-08-Data-Visualization-/assets/120232371/d077b1de-f980-436d-a70c-79b197ec8e6d)
